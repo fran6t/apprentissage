@@ -1,0 +1,2 @@
+u deuxieme commit j'avais oublié de bosser sur la bonne branche avec un git checkout test
+cette fois-i j'ai fais un checkout test2 uis j'ai ajouté ce fichier
