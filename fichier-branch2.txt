@@ -2,4 +2,5 @@ u deuxieme commit j'avais oublié de bosser sur la bonne branche avec un git che
 cette fois-i j'ai fais un checkout test2 uis j'ai ajouté ce fichier
 Mais pour commit une branche il faut faire git push origin lenomdelabranche
 ajout de cette ligne pour refaire un commit -a de plus en etant sur branch test2
-
+Pour les commit de branch bonne explication sur 
+http://www.letuyau.net/2012/08/git-pusher-une-branche-sur-un-repository-distant/
